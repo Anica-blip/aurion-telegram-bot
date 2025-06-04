@@ -1,2 +1,2 @@
 python-telegram-bot==20.3
-notion-client==0.14.1
+notion-client==2.3.0
